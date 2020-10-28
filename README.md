@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project 1: Relational Data Modeling with PostgreSQL
 
